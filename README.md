@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 💫 About Me:
-Hi,  I'm currently a student at Hanoi University of Science and Technology.<br>My goal is to become a Backend Developer.
+I'm currently a student at Hanoi University of Science and Technology.<br>My goal is to become a Backend Developer.
 
 
 # 🌐 Socials:
